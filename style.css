@@ -1,0 +1,37 @@
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(UK-Startup-Accelerators-A-Complete-Guide.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    font-size: 50px;
+    font-family: monospace;
+    color: #fff;
+}
+
+h2{
+    margin-top: 30px;
+    font-size: 42px;
+    color: #fff;
+    font-family: monospace;
+}
+
+
+.containe {
+    text-align: center;
+    margin-top: 170px;
+    margin-left: 600px;
+}
+
+.btn {
+    background: #2f202f;
+}
+
+.btn:hover{
+    background: #000;
+}
+
+.btn-primary {
+    padding: 20px 40px;
+}
